@@ -2,7 +2,7 @@
 - Created by Le Dinh An
 - Họ tên: Lê Đình An
 - Lớp : N02
-- App BLOG+ 
+- Xây dụng App BLOG+ 
 - Chức năng:
   + Đăng nhập
   + Đăng ký tài khoản
